@@ -1,6 +1,6 @@
 {
   "name": "@cartesi/solidity-coverage",
-  "version": "0.7.16-patch",
+  "version": "0.7.16-patch-2",
   "description": "",
   "main": "plugins/nomiclabs.plugin.js",
   "bin": {
